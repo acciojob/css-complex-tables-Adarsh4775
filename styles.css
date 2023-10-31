@@ -8,7 +8,7 @@ th,td{
 	text-align:center;
 	border:1px solid orange;
 	padding:3px 5px;
-	
+	border-width: 1px 1px 0px 0px;
 }
 th{
 	background-color: rgb(136, 136, 136);
